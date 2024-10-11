@@ -1,10 +1,4 @@
 # EgoSocialArena
-## Overall
-![这是图片](/image/figure1.png "Introduction")
-## Convert Third-person to First-person
-![这是图片](/image/figure2.png "Conversion")
-## Examples
-![这是图片](/image/figure3.png "Example")
 ## Number Guessing
 | Model      | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | Round 8 | Round 9 | Round 10| Accuracy |
 | ------     | --------|------   | --------|   ------| --------|   ------| --------|   ------| --------|   ------| ---------|
@@ -17,3 +11,10 @@
 | Llama3-70b-chat-hf| 50✅      | 45      | 43      |30       | 25      | 19      | 15      | 12      | 11      | 7      | 0.1 |
 | Llama3.1-405b-Instruct-Turbo| 50✅      | 40✅      | 35      |29       | 23      | 19      | 14.5      | 11.5      | 9.5      | 7.5      | 0.2 |
 | Llama3-8b-Instruct-Turbo| 67      | 67      | 67      |67       | 67      | 67      | 67      | 67      | 67      | 67      | 0 |
+## Overall
+![这是图片](/image/figure1.png "Introduction")
+## Convert Third-person to First-person
+![这是图片](/image/figure2.png "Conversion")
+## Examples
+![这是图片](/image/figure3.png "Example")
+
