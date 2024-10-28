@@ -1,6 +1,7 @@
 # EgoSocialArena
 ## QuickStart
 ### Requirements
+OpenAI, Together, and Anthropic are three relatively important dependencies. Different versions may result in variations in API calling methods.
 ```bash
 pip install -r requirements.txt
 ```
