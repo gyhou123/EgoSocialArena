@@ -1,9 +1,9 @@
 # EgoSocialArena
 ## QuickStart
 ### Requirements
-'''
-pip install -r requiremrnts.txt
-'''
+```bash
+pip install -r requirements.txt
+```
 ## Number Guessing
 ### Cognitive Level 3
 | Model      | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | Round 8 | Round 9 | Round 10| Accuracy |
