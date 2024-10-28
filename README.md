@@ -22,6 +22,7 @@ https://www.together.ai/
 Two evaluation environments: static environment and interactive environment, with seven scenarios: Daily Life, Counterfactual, New World, Blackjack, Number Guessing, and Limit Texas Hold’em, totaling 2,195 data entries.
 ![这是图片](/image/Figure_1.png "data")
 |Scenario|detailed explanation|
+| ------     | --------|
 |Counterfact|Game Rules, Physical Facts, Chemical Facts, Biological Facts, Traffic Rules, Social Etiquette Knowledge etc|
 ## Number Guessing
 ### Cognitive Level 3
