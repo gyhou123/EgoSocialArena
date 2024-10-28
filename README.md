@@ -18,6 +18,8 @@ Together:
 ```bash
 https://www.together.ai/
 ```
+## Dataset Statistics
+![这是图片](/image/Figure_1.png "data")
 ## Number Guessing
 ### Cognitive Level 3
 | Model      | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | Round 8 | Round 9 | Round 10| Accuracy |
