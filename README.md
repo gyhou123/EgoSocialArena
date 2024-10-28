@@ -68,3 +68,12 @@ Two evaluation environments: static environment and interactive environment, wit
 ## Examples
 ![这是图片](/image/figure3.png "Example")
 
+If you find this work useful in your method, you can cite the paper below:
+```
+@article{hou2024entering,
+  title={Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective},
+  author={Hou, Guiyang and Zhang, Wenqi and Shen, Yongliang and Tan, Zeqi and Shen, Sihao and Lu, Weiming},
+  journal={arXiv preprint arXiv:2410.06195},
+  year={2024}
+}
+```
