@@ -6,6 +6,18 @@ OpenAI, Together, and Anthropic are three relatively important dependencies. Dif
 pip install -r requirements.txt
 ```
 The APIs for OpenAI, Together, and Anthropic are needed, and they should be entered in the corresponding locations in llm_utils.py.
+OpenAI:
+```bash
+https://openai.com/
+```
+Anthropic:
+```bash
+https://www.anthropic.com/claude
+```
+Together:
+```bash
+https://www.together.ai/
+```
 ## Number Guessing
 ### Cognitive Level 3
 | Model      | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | Round 8 | Round 9 | Round 10| Accuracy |
